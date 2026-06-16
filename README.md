@@ -43,7 +43,7 @@ Before running the project, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/nimradev064/voiceagent.git
+git clone https://github.com/nimradev064/SpeakAgent.git
 cd voiceagent
 ```
 
