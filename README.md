@@ -44,7 +44,7 @@ Before running the project, make sure you have:
 
 ```bash
 git clone https://github.com/nimradev064/SpeakAgent.git
-cd voiceagent
+cd SpeakAgent
 ```
 
 ### 2. Install Dependencies
